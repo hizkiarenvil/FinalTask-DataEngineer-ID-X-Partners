@@ -1,5 +1,7 @@
 # Project Title: FinalTask-DataEngineer-ID-X-Partners
 
+![Image Description](https://github.com/hizkiarenvil/FinalTask-DataEngineer-ID-X-Partners/blob/main/Project%20Architecture%20IDX%20Partners.jpeg)
+
 ## Project Overview
 This virtual internship program serves as a Data Engineer role at ID/X Partners. The task involves creating a Data Warehouse for a banking industry client of ID/X Partners. The client faces challenges in extracting data from various sources simultaneously, leading to delays in data reporting and analysis. The available data sources include Excel and CSV files, as well as SQL Server databases containing transaction, account, customer, branch, city, and state information.
 
