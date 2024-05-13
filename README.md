@@ -19,10 +19,9 @@ This virtual internship program serves as a Data Engineer role at ID/X Partners.
      - **BalancePerCustomer:** Calculate the current balance per customer considering transaction types (Deposit, Withdrawal) and account status (active).
 
 ## Technologies and Tools
-- Programming Languages: SQL, Python
-- Database Management Systems: Microsoft SQL Server, PostgreSQL
+- Programming Languages: SQL
+- Database Management Systems: Microsoft SQL Server
 - Tools: Talend for ETL processes
-- Cloud Platform: Google Cloud Platform (GCP) - BigQuery, Cloud Storage, Compute Engine
 
 ## Folder Structure
 - **ETL_Jobs:** Contains Talend ETL job files.
@@ -34,13 +33,9 @@ This virtual internship program serves as a Data Engineer role at ID/X Partners.
 1. Install SQL Server Management Studio (SSMS) for database operations.
 2. Install Talend for ETL development.
 3. Restore the provided sample database backup file for data sources.
-4. Set up a Google Cloud Platform (GCP) project for cloud services, if required.
 
 ## Contributors
 - Hizkia - Data Engineer
-
-## Deadline
-Complete the project within the specified timeline.
 
 ## Additional Notes
 - Ensure all code follows best practices and is well-documented.
