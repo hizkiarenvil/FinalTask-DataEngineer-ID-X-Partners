@@ -1,5 +1,9 @@
 # Project Title: FinalTask-DataEngineer-ID-X-Partners
 
+
+
+## Project Architecture
+
 ![Image Description](https://github.com/hizkiarenvil/FinalTask-DataEngineer-ID-X-Partners/blob/main/Project%20Architecture%20IDX%20Partners.jpeg)
 
 ## ERD
