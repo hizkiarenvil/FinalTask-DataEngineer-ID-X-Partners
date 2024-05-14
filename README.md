@@ -27,6 +27,7 @@ This virtual internship program serves as a Data Engineer role at ID/X Partners.
        Example output: Date, TotalTransactions, TotalAmount.
      - **BalancePerCustomer:** Calculate the current balance per customer considering transaction types (Deposit, Withdrawal) and account status (active).
 
+
 ## Technologies and Tools
 - Programming Languages: SQL
 - Database Management Systems: Microsoft SQL Server
