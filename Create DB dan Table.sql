@@ -22,6 +22,7 @@ CREATE TABLE DimAccount (
     status VARCHAR(10),
     FOREIGN KEY (CustomerID) REFERENCES DimCustomer(CustomerID)
 );
+
 CREATE TABLE DimBranch (
     BranchID INT PRIMARY KEY,
     BranchName VARCHAR(50),
