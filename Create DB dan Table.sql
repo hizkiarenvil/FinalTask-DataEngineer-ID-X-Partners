@@ -28,6 +28,7 @@ CREATE TABLE DimBranch (
     BranchName VARCHAR(50),
     BranchLocation VARCHAR(50)
 );
+
 CREATE TABLE FactTransaction (
     TransactionID INT PRIMARY KEY,
     AccountID INT,
