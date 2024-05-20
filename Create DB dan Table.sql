@@ -12,6 +12,7 @@ CREATE TABLE DimCustomer (
     Gender VARCHAR(10),
     Email VARCHAR(50)
 );
+
 CREATE TABLE DimAccount (
     AccountID INT PRIMARY KEY,
     CustomerID INT,
