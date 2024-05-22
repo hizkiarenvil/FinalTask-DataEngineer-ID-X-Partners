@@ -13,6 +13,7 @@ CREATE TABLE DimCustomer (
     Email VARCHAR(50)
 );
 
+
 CREATE TABLE DimAccount (
     AccountID INT PRIMARY KEY,
     CustomerID INT,
