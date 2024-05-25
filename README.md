@@ -12,7 +12,6 @@
 ## Project Overview
 This virtual internship program serves as a Data Engineer role at ID/X Partners. The task involves creating a Data Warehouse for a banking industry client of ID/X Partners. The client faces challenges in extracting data from various sources simultaneously, leading to delays in data reporting and analysis. The available data sources include Excel and CSV files, as well as SQL Server databases containing transaction, account, customer, branch, city, and state information.
 
-
 ## Tasks
 1. **Database Creation:** Create a new database named 'DWH' to serve as the Data Warehouse.
 2. **Dimension and Fact Tables:**
