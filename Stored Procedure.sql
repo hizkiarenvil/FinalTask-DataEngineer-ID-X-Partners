@@ -1,4 +1,5 @@
 ------ Pembuatan STORED PROCEDURE
+
 CREATE PROCEDURE DailyTransaction
     @start_date DATE,
     @end_date DATE
