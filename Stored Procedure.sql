@@ -42,7 +42,6 @@ BEGIN
     GROUP BY c.CustomerName, a.AccountType, a.Balance;
 END;
 
-
 ------Menjalankan Stored Procedure
 EXEC DailyTransaction @start_date = '2024-01-18', @end_date = '2024-01-20';
 EXEC BalancePerCustomer @name = 'Shelly';
