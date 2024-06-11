@@ -20,7 +20,6 @@ BEGIN
         Date;
 END;
 
-
 CREATE PROCEDURE BalancePerCustomer
     @name VARCHAR(255)
 AS
