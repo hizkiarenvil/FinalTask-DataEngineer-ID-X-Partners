@@ -1,5 +1,6 @@
 CREATE DATABASE DWH;
 
+
 USE DWH;
 CREATE TABLE DimCustomer (
     CustomerID INT PRIMARY KEY,
